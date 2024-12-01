@@ -1,0 +1,2 @@
+# BiliVideoDataAnalysis
+本项目重点分析Bilibili排名视频信息。它执行全面的数据处理，包括数据清理和预处理，以确保数据完整性。通过各种数据分析和可视化技术，如相关性分析、发布位置和视频类别的分布分析、交互类型分析以及使用随机森林模型的特征重要性分析，它揭示了关于Bilibili视频的宝贵见解。此外，基于视频标题生成一个词云来展示流行关键字。该项目在Pandas、Matplotlib、Seaborn、Scikit-learn和WordCloud等库的帮助下用Python实现，旨在深入了解Bilibili视频生态系统和相关数据特征。
